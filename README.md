@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Basel!</h3>
 
 <a href="https://www.linkedin.com/in/basel-yosry-27b464276/">
-  <img align="left" alt="Basel's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Basel's LinkdeIn" width="24px" src="https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=__s8_j_F8SMAb5G23kC&_nc_ht=scontent.fcai19-5.fna&oh=00_AfBIWylBrz8cQtMkqfLoXCzovaJFcELIKs_tfYxXVyrbRw&oe=6617336B" />
 </a>
 <br>
 <br />
