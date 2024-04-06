@@ -39,7 +39,7 @@ Hi there, I'm **Basel Yosry**, a **Computer Science Student**  from Cairo, Egypt
 
 
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/csharp.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
