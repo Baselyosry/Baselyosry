@@ -29,7 +29,7 @@ Hi there, I'm **Basel Yosry**, a **Computer Science Student**  from Cairo, Egypt
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studying Backend Develop.
+- 👨🏽‍💻 I’m currently studying Backend Development.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 📫 Email me at [officialbaselyosry@gmail.com](mailto:officialbaselyosry@gmail.com).
  <!--- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. -->
