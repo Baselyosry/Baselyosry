@@ -1,47 +1,55 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+<!-- GitHub Profile README - Baselyosry -->
 
-<!--
-**BaselxD/BaselxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Basel yosry 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+write+code.;I+solve+problems.;I+ask+questions.;I+never+stop+learning." alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm Basel!</h3>
+<p align="center">
+  <a href="mailto:officialbaselyosry@gmail.com"><img src="https://img.shields.io/badge/Email-OfficialBaselyosry%40gmail.com-black?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/basel-yosry-27b464276"><img src="https://img.shields.io/badge/LinkedIn-Basel%20Yosry-black?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Philosopher-Developer-black?style=flat&logo=codeforces&logoColor=white"/>
+</p>
 
-<a href="https://www.linkedin.com/in/basel-yosry-27b464276/" target="_blank">
-  <img align="left" alt="Basel's LinkdeIn" width="24px" src="https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=__s8_j_F8SMAb5G23kC&_nc_ht=scontent.fcai19-5.fna&oh=00_AfBIWylBrz8cQtMkqfLoXCzovaJFcELIKs_tfYxXVyrbRw&oe=6617336B" />
-</a>
-<br>
-<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</div>
 
-Hi there, I'm **Basel Yosry**, a **Computer Science Student**  from Cairo, Egypt.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
+---
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+### 🧠 About Me
 
-**About Me!**
+- 💻 CS Student @ MUST University
+- 👨🏽‍💻 I’m currently studying Backend Development. 
+- 📚 Passionate about Software Architecture & System Design  
+- 🧩 Always learning – Clean code, Performance, and Backend craft 
+---
 
-- 👨🏽‍💻 I’m currently studying Backend Development.
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 📫 Email me at [officialbaselyosry@gmail.com](mailto:officialbaselyosry@gmail.com).
- <!--- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info. -->
+### 🔧 Tech & Tools
 
+```bash
+Languages:     C++, C#, Python, SQL
+Frameworks:    ASP.NET Core, Django
+Web:           HTML, CSS, JavaScript
+Database:      MSSQL
+Tools:         Git, GitHub, VS Code, VS IDE
+```
+---
 
-**Languages and Tools:**  
+<!---### 📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Baselyosry&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Baselyosry&theme=tokyonight&hide_border=true" width="49%"/> </div>--->
 
+---
 
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"></code>
+### 📬 Contact
 
-<code><img height="20" src="https://e7.pngegg.com/pngimages/673/239/png-clipart-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 📧 Email: [officialbaselyosry@gmail.com](mailto:officialbaselyosry@gmail.com)  
+- 💼 LinkedIn: [Basel Yosry](https://www.linkedin.com/in/basel-yosry-27b464276)
