@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:officialbaselyosry@gmail.com"><img src="https://img.shields.io/badge/Email-OfficialBaselyosry%40gmail.com-black?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:baselyosry96@gmail.com"><img src="https://img.shields.io/badge/Email-baselyosry96%40gmail.com-black?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/basel-yosry-27b464276"><img src="https://img.shields.io/badge/LinkedIn-Basel%20Yosry-black?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Philosopher-Developer-black?style=flat&logo=codeforces&logoColor=white"/>
 </p>
@@ -51,5 +51,5 @@ Tools:         Git, GitHub, VS Code, VS IDE
 
 ### 📬 Contact
 
-- 📧 Email: [officialbaselyosry@gmail.com](mailto:officialbaselyosry@gmail.com)  
+- 📧 Email: [baselyosry96@gmail.com](mailto:baselyosry96@gmail.com)  
 - 💼 LinkedIn: [Basel Yosry](https://www.linkedin.com/in/basel-yosry-27b464276)
